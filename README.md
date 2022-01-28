@@ -1,4 +1,4 @@
-# tinder_app
+# Image_slider
 
 A new Flutter project.
 
